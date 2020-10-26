@@ -2,7 +2,7 @@
 ---- ChatSystem using a Tcp connection ----
 --------------------------------------------------
 
-This WPF based chat program makes use of my TcpConnector ( [TcpConnector](https://github.com/Kiminaze/TcpConnector) ) to create a connection between a server and several clients. This is mainly just a showcase of how to use the TcpConnector.
+This WPF based chat program makes use of my TcpConnector ( [TcpConnector](https://github.com/Kiminaze/TcpConnector) ) to create a connection between a server and several clients. This is mainly just a showcase of how to use the TcpConnector and by far not perfect.
 
 **Server Features:**
 - You can set a custom port (port needs to be forwarded in your firewall)
